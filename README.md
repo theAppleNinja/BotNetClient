@@ -9,3 +9,5 @@ http://www.acsac.org/2010/program/case/wed-1030-Coskun.pdf
 
 We took a popular video game, embedded this code into the game and made it available for download for free as a PoC.  Once they load and play this game, it runs in the background as a botnet client connecting to the BotNet Command and Control Center and accepts commands and act as a Zombie device accepting tcpflood commands to effect DDoS on Internet systems.
 
+Pete Hoang
+
