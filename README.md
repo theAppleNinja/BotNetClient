@@ -1,0 +1,2 @@
+# BotNetClient
+This is the botnot client code I wrote as a PoC in cooperation with AT&amp;T Labs Research to prototype new attack vectors from smart phones back in 2009.  My work was presented at the December 2010 Annual Computer Security Applications ConferenceConference below.  http://www.acsac.org/2010/program/case/wed-1030-Coskun-paper.pdf http://www.acsac.org/2010/program/case/wed-1030-Coskun.pdf
